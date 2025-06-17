@@ -11,6 +11,8 @@ class CategorySeeder extends Seeder
     /**
      * Run the database seeds.
      */
+
+    //  iiii
     public function run(): void
     {
         DB::table('categories')->insert([
